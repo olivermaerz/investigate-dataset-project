@@ -1,0 +1,14 @@
+# project stuff
+rubric.md
+project_details.md
+*.zip
+
+# data
+Database_TMDb_movie_data/
+
+# python stuff
+.venv/
+venv/
+
+# mac stuff
+.DS_Store
